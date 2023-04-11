@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerdawe
-- 👀 I’m interested in potchig with code
+- 👀 I’m interested in potching with code
 - 🌱 I’m currently learning things I neeed to my job better
 - 💞️ I’m looking to collaborate on anything tbh, open for suggestions
 - 📫 How to reach me on [=] slack geraint
